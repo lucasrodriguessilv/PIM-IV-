@@ -1,0 +1,12 @@
+
+CEP: 312391293
+Idade: 122
+
+CEP: 1234435445343
+Idade: 27
+
+CEP: 312312
+Idade: 92
+
+CEP: AWDAWD
+Idade: -30744

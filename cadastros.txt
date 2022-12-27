@@ -1,0 +1,78 @@
+
+Nome: LUCAS
+CPF: 443.443.443.52
+Data de nascimento: 14/3/1900
+Telefone: 3219329193
+CEP: 312391293
+Rua: RUA LALA
+Número: 9
+Bairro: LALAL
+Cidade: CACACA
+Estado: SZ
+Email: SDAWND@HDWADA
+Data do diagnostico: 12/20/2009
+Comorbidade: SIM
+Quais comorbidade(s)? LLLLLLL
+
+
+Nome: LUCAS
+CPF: 321441234
+Data de nascimento: 14/3/1995
+Telefone: 123445434543
+CEP: 1234435445343
+Rua: AWDAWD
+Número: 46822144
+Bairro: DAWDAW
+Cidade: DAWD
+Estado: WADAW
+Email: DAW
+Data do diagnostico: DWADWA
+Comorbidade: SIM
+Quais comorbidade(s)? AWFRGERWERGTGFEERG
+
+
+Nome: xxxxx xx xxxxx xxxxx
+CPF: xxx.xxx.xxx.xx
+Data de nascimento: 32766/46530571/32766
+Telefone: xxxx
+CEP: xxxxxxxx
+Rua: xxx xxxxxx xxxxxxxx
+Número: 46822144
+Bairro: xxx
+Cidade: xxxxxxxxx
+Estado: xx
+Email: xxxxxxxxxxx@xxxxx.xxx.xx
+Data do diagnostico: xx/xx/xxxx
+Comorbidade: NÃO
+Quais comorbidade(s)? Nenhum
+
+Nome: LUCAS
+CPF: 12435453423
+Data de nascimento: 14/3/1930
+Telefone: 12312
+CEP: 312312
+Rua: 312312
+Número: 31231
+Bairro: 3123
+Cidade: 213
+Estado: 123
+Email: 123
+Data do diagnostico: 14
+Comorbidade: NÃO
+Quais comorbidade(s)? Nenhum
+
+Nome: DAWDAW
+CPF: DAWDAW
+Data de nascimento: 32766/46530571/32766
+Telefone: DWAD
+CEP: AWDAWD
+Rua: AWDAWD
+Número: 46822144
+Bairro: AWD
+Cidade: AWD
+Estado: AWD
+Email: AWD
+Data do diagnostico: AWD
+Comorbidade: SIM
+Quais comorbidade(s)? DWERREF
+
